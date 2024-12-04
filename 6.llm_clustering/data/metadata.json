@@ -1,0 +1,77 @@
+[
+  { "feature_name": "CLIENTNUM", "desc": "Unique identifier for the client" },
+  {
+    "feature_name": "Attrition_Flag",
+    "desc": "Indicates if the customer has left or stayed with the company"
+  },
+  { "feature_name": "Customer_Age", "desc": "Age of the customer" },
+  { "feature_name": "Gender", "desc": "Gender of the customer" },
+  {
+    "feature_name": "Dependent_count",
+    "desc": "Number of dependents the customer has"
+  },
+  {
+    "feature_name": "Education_Level",
+    "desc": "Highest level of education attained by the customer"
+  },
+  {
+    "feature_name": "Marital_Status",
+    "desc": "Marital status of the customer"
+  },
+  {
+    "feature_name": "Income_Category",
+    "desc": "Income category of the customer"
+  },
+  {
+    "feature_name": "Card_Category",
+    "desc": "Category of the credit card the customer holds"
+  },
+  {
+    "feature_name": "Months_on_book",
+    "desc": "Number of months the account has been active"
+  },
+  {
+    "feature_name": "Total_Relationship_Count",
+    "desc": "Total number of products the customer holds with the bank"
+  },
+  {
+    "feature_name": "Months_Inactive_12_mon",
+    "desc": "Number of months the customer was inactive in the last 12 months"
+  },
+  {
+    "feature_name": "Contacts_Count_12_mon",
+    "desc": "Number of contacts made with the customer in the last 12 months"
+  },
+  {
+    "feature_name": "Credit_Limit",
+    "desc": "Maximum credit limit for the customer"
+  },
+  {
+    "feature_name": "Total_Revolving_Bal",
+    "desc": "Total revolving balance on the credit card"
+  },
+  {
+    "feature_name": "Avg_Open_To_Buy",
+    "desc": "Average open-to-buy credit line (remaining credit)"
+  },
+  {
+    "feature_name": "Total_Amt_Chng_Q4_Q1",
+    "desc": "Change in transaction amount from Q4 to Q1"
+  },
+  {
+    "feature_name": "Total_Trans_Amt",
+    "desc": "Total transaction amount over the year"
+  },
+  {
+    "feature_name": "Total_Trans_Ct",
+    "desc": "Total transaction count over the year"
+  },
+  {
+    "feature_name": "Total_Ct_Chng_Q4_Q1",
+    "desc": "Change in transaction count from Q4 to Q1"
+  },
+  {
+    "feature_name": "Avg_Utilization_Ratio",
+    "desc": "Average utilization ratio of the credit card"
+  }
+]

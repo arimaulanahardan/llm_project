@@ -1,0 +1,26 @@
+create a clustering tools to automate clusteri creation
+- the input will be data from user
+- user can define number of clusteri
+- or algoritm will select the number of clustering
+- explain the cluster using LLM
+
+streamlit -> not high priority
+notebook -> have all the function
+
+function list :
+1. Function to read the data
+    - If user dont have, u can use metadata
+2. Preprosess the data :
+    - Check and Fill the missing Value
+    - encode the data  (categorical -> numerical)
+    - scale the data
+
+3. perform cluster analysis :
+    - function to create a elbow chart
+    - Input Number of cluster and make the cluster -> K-means
+    - aggregate the data for each cluster
+
+4. Cluster definition
+    - Create the Prompt
+    - Extract the result
+    - show the result
